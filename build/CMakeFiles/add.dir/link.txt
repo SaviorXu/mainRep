@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libadd.dylib -install_name /Users/savior/code/cmake_test/build/libadd.dylib CMakeFiles/add.dir/lib/add.o 
