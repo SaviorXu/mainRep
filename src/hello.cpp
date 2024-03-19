@@ -15,4 +15,5 @@ int main()
     cout<<"this is main_1 test"<<endl;
     cout<<" this is main_2 test"<<endl;
     cout<<"this is rebase test"<<endl;
+    cout<<"this is rebase_2 test"<<endl;
 }
