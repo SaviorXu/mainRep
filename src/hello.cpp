@@ -12,4 +12,7 @@ int main()
     cout<<"this is merge branch"<<endl;
     cout<<"this is merge_2 test"<<endl;
     cout<<"this is merge_3 test"<<endl;
+    cout<<"this is main test"<<endl;
+    cout<<"this is main_1 test"<<endl;
+    cout<<" this is main_2 test"<<endl;
 }
