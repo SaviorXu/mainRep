@@ -10,4 +10,5 @@ int main()
     cout<<"add(2,3)="<<add(2,3)<<endl;
     hello();
     cout<<"this is rebase test"<<endl;
+    cout<<"this is rebase_2 test"<<endl;
 }
