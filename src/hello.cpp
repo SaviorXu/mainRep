@@ -10,4 +10,5 @@ int main()
     cout<<"add(2,3)="<<add(2,3)<<endl;
     hello();
     cout<<"this is main test"<<endl;
+    cout<<"this is main_1 test"<<endl;
 }
