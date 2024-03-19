@@ -10,4 +10,5 @@ int main()
     cout<<"add(2,3)="<<add(2,3)<<endl;
     hello();
     cout<<"this is merge branch"<<endl;
+    cout<<"this is merge_2 test"<<endl;
 }
